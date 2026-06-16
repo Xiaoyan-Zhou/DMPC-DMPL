@@ -1,0 +1,1 @@
+python ID_test.py --model_path ./Trained_model_npys --save_excel ./results/ID_acc.xlsx
